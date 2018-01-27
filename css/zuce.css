@@ -1,0 +1,116 @@
+/*注册开始*/
+.zucetab{
+	width: 100%;
+	height: 1.17rem;
+	background-color: #f5f6f6;
+	float: left;
+}
+.tab{
+	width: 100%;
+	height: .9rem;
+	background-color: #e7383d;
+	float: left;
+	border-top: .05rem solid #e97468;
+}
+.quxiao1{
+	font-size: .25rem;
+	line-height: .9rem;
+	float: left;
+	color: #fad8d2;
+	padding-left: .25rem;
+}
+.biaoti1{
+	/*text-align: center;*/
+	line-height: .9rem;
+	color: #f0f8fd;
+	padding-left: 3.2rem;
+	font-size: .38rem;
+}
+.neirong{
+	width: 100%;
+	height: 1.61rem;
+	background-color: /*#fefefe*/red;
+	float: left;
+}
+.jiabaliu{
+	width: 100%;
+	height: .8rem;
+	background-color: #fefefe;
+	border-top: .05rem solid #fbfbfa;
+	float: left;
+}
+.yanzhen{
+	width: 100%;
+	height: .8rem;
+	background-color: #fefefe;
+	border-top: .05rem solid #fbfbfa;
+	border-bottom: .05rem solid #fbfbfa;
+	float: left;
+	/*padding-top: .2rem;*/
+	/*margin-bottom: 5rem;*/
+}
+.jiabaliu h1{
+	color: #0e1011;
+	font-size: .3rem;
+	float: left;
+	line-height: .8rem;
+	padding-left: .25rem;
+}
+.jiabaliu h2{
+	line-height: .8rem;
+	font-size: .3rem;
+	padding-left: .5rem;
+	color: #c3bab7;
+	float: left;
+}
+.yanzhen h1{
+	color: #0e1011;
+	font-size: .3rem;
+	float: left;
+	line-height: .8rem;
+	padding-left: .25rem;
+}
+.yanzhen h2{
+	font-size: .3rem;
+	float: left;
+	line-height: .8rem;
+	color: #c3bab7;
+	padding-left: .2rem;
+}
+.yanzhen h3{
+	font-size: .3rem;
+	float: right;
+	line-height: .8rem;
+	color: #c3bab7;
+	padding-right: .15rem;
+}
+.xiayibu{
+	/*margin-top: .5rem;*/
+	padding-top: 3rem;
+	/*float: left;*/
+
+}
+.xiayibu img{
+	/*padding-top: .5rem;*/
+	width: 5.7rem;
+	height: 0.67rem;
+	margin:0 auto;
+	border-radius: .5rem;
+	/*float: left;*/
+}
+.shoujikauijiedenglu{
+	text-align: center;
+	padding-top: .32rem;
+	color: #e7e6e7;
+	font-size: .24rem;
+}
+.dibu1{
+	/*padding-bottom: 1.33rem;*/
+	padding-top: 7rem;
+}
+.dibu1{
+	color: #bab9b6;
+	font-size: .11rem;
+	padding-left: .5rem;
+	padding-right: .5rem;
+}
